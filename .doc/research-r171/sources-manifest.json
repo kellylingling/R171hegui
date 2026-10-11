@@ -1,0 +1,44 @@
+[
+  {
+    "title": "R171 01 series",
+    "file": "r171-2025.html",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:42025X1899",
+    "sha256": "adc99fa1afbd1031f02f5da03f7fe15cb621d6d46b80ad966e92b1984635a94d",
+    "accessed_date": "2026-10-11"
+  },
+  {
+    "title": "01 Supplement 1 adopted text",
+    "file": "r171-sup1-01-proposal.pdf",
+    "url": "https://docs.un.org/en/ECE/TRANS/WP.29/2025/144",
+    "sha256": "5511708c6604de7d4a70f97b138855f579fcf9c32a76db6838e1632c5b2cc1f0",
+    "accessed_date": "2026-10-11"
+  },
+  {
+    "title": "WP29 adoption record",
+    "file": "wp29-1188.pdf",
+    "url": "https://docs.un.org/en/ECE/TRANS/WP.29/1188",
+    "sha256": "e0d44605f40b3bee9fcaf38e47fcb72184a005e1145bc8e01abf717cd321bbde",
+    "accessed_date": "2026-10-11"
+  },
+  {
+    "title": "RDW entry dates",
+    "file": "rdw-entry-dates.pdf",
+    "url": "https://www.rdw.nl/-/media/rdwnl/documenten/fabrikanten/naslag/entry-dates-ece-regulations.pdf",
+    "sha256": "8db2e2b7232a474ed5d0ea1c2e0b16f56cc09fd20e70940d402784696d5d55bd",
+    "accessed_date": "2026-10-11"
+  },
+  {
+    "title": "BMW R171 announcement",
+    "file": "bmw-dcas-approval.html",
+    "url": "https://www.press.bmwgroup.com/global/article/detail/T0453593EN",
+    "sha256": "ec90a27ee14e289aae9bdaacdeb208f4d7086ef80995bc0c999afd307becc035",
+    "accessed_date": "2026-10-11"
+  },
+  {
+    "title": "RDW monitoring evidence",
+    "file": "rdw-tesla-followup.html",
+    "url": "https://www.rdw.nl/en/news/2026/explanation-of-the-type-approval-of-fsd-supervised",
+    "sha256": "15a77fb7102bc4ca49241c4e4eeb35d2ae998e5a4404127c438719cd9e012079",
+    "accessed_date": "2026-10-11"
+  }
+]

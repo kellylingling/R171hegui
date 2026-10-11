@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1020" viewBox="0 0 1440 1020">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#60778d"/></marker></defs>
+<rect width="1440" height="1020" fill="#f3f6fb"/>
+<path d="M0 0H1440V120H0Z" fill="#143451"/>
+<g font-family="Microsoft YaHei,sans-serif">
+<text x="44" y="52" font-size="28" font-weight="700" fill="white">R171 · 车端证据、OEM 持续监测与监管报告</text>
+<text x="44" y="91" font-size="17" fill="#cbdeef">参考架构，非车企内部架构 · 01 系列及 Supplement 1 · 核查日期 2026-10-11</text>
+<g fill="#e7eef7" stroke="#d5e0ed"><rect x="32" y="148" width="390" height="740" rx="18"/><rect x="454" y="148" width="540" height="740" rx="18"/><rect x="1026" y="148" width="382" height="740" rx="18"/></g>
+<g fill="#173e5e"><circle cx="70" cy="186" r="22"/><circle cx="492" cy="186" r="22"/><circle cx="1064" cy="186" r="22"/></g>
+<g fill="white" font-size="17" font-weight="700"><text x="59" y="193">01</text><text x="481" y="193">02</text><text x="1053" y="193">03</text></g>
+<g fill="#173e5e" font-size="22" font-weight="700"><text x="111" y="194">车端</text><text x="533" y="194">OEM 地域云</text><text x="1105" y="194">批准机关与 DETA</text></g>
+<g fill="white" stroke="#cfdaE8">
+<rect x="54" y="226" width="346" height="108" rx="12" fill="#eef9f6"/>
+<rect x="54" y="384" width="346" height="108" rx="12"/>
+<rect x="54" y="542" width="346" height="108" rx="12"/>
+<rect x="54" y="700" width="346" height="108" rx="12"/>
+<rect x="476" y="226" width="496" height="108" rx="12"/>
+<rect x="476" y="384" width="235" height="108" rx="12"/>
+<rect x="732" y="384" width="240" height="108" rx="12"/>
+<rect x="476" y="542" width="496" height="108" rx="12"/>
+<rect x="476" y="700" width="496" height="108" rx="12" fill="#eef5ff"/>
+<rect x="1048" y="226" width="338" height="108" rx="12"/>
+<rect x="1048" y="384" width="338" height="108" rx="12" fill="#fff5e8"/>
+<rect x="1048" y="700" width="338" height="108" rx="12"/>
+</g>
+<g fill="#173e5e" font-size="19" font-weight="700">
+<text x="72" y="258">DCAS、DMS 与 HMI</text><text x="72" y="416">隔离的法规数据采集器</text><text x="72" y="574">持久计数与事件缓存</text><text x="72" y="732">安全网关 / TCU</text>
+<text x="494" y="258">设备接入、校验、去重与消息队列</text><text x="494" y="416">事故证据与调查</text><text x="750" y="416">指标与质量监测</text><text x="494" y="574">车辆配置台账、批准与安全论证</text><text x="494" y="732">合规报告、审签与监管出口</text>
+<text x="1066" y="258">授予批准的型式批准机关</text><text x="1066" y="416">涉及 DCAS 设计整改时</text><text x="1066" y="732">其他适用 R171 的批准机关</text>
+</g>
+<g fill="#566d83" font-size="15">
+<text x="72" y="287">感知规划控制、驾驶员告警与风险减缓</text><text x="72" y="312">驾驶安全闭环在车端完成</text>
+<text x="72" y="445">功能模式、告警、退出、碰撞与动作</text><text x="72" y="470">里程时长、版本与时钟质量</text>
+<text x="72" y="603">事件冻结、掉电恢复与独立告警窗口</text><text x="72" y="628">保留累计值、序号与重算线索</text>
+<text x="72" y="761">设备身份、签名、加密与接收确认</text><text x="72" y="786">元数据优先、持久队列、断点续传</text>
+<text x="494" y="287">包摘要、Schema、出处与时间一致性</text><text x="494" y="312">非法数据隔离、漏报告警，不静默记零</text>
+<text x="494" y="445">不可变快照与审计</text><text x="494" y="470">首报、根因、整改</text>
+<text x="750" y="445">Table 1 九项与暴露量</text><text x="750" y="470">失联覆盖率、版本分组</text>
+<text x="494" y="603">批准号、法规版本、功能边界、R171SWIN</text><text x="494" y="628">实际软件 / 模型 / 标定关联试验与安全文件</text>
+<text x="494" y="761">首报、调查、年报 / 特定月报、回执</text><text x="494" y="786">固定证据快照、可复算口径、分级留存</text>
+<text x="1066" y="287">事故首报、调查、周期报与资料核查</text><text x="1066" y="312">具体交付通道与厂家商定</text>
+<text x="1066" y="445">英文 PDF：事故、原因与整改</text><text x="1066" y="470">按批准号归档 OTHER 文档及 News</text>
+<text x="1066" y="761">受控查阅整改材料与按需问询</text><text x="1066" y="786">不是车端实时遥测接收平台</text>
+<text x="67" y="851">断网 / 损坏：授权本地导出并补充售后证据</text>
+<text x="486" y="851">整改 → 验证 → 批准变更评估 → R156 更新发布</text>
+</g>
+<g stroke="#60778d" stroke-width="2.2" fill="none" marker-end="url(#a)">
+<path d="M227 334V381"/><path d="M227 492V539"/><path d="M227 650V697"/>
+<path d="M400 754H438V280H473"/><path d="M724 334V358H594V381"/><path d="M724 358H852V381"/>
+<path d="M594 492V539"/><path d="M852 492V539"/><path d="M724 650V697"/>
+<path d="M972 754H1010V280H1045"/><path d="M1217 334V381"/><path d="M1217 492V541"/>
+<path d="M1217 652V697"/>
+</g>
+<ellipse cx="1217" cy="598" rx="155" ry="54" fill="#173e5e"/>
+<text x="1175" y="594" font-size="26" font-weight="700" fill="white">DETA</text>
+<text x="1137" y="624" font-size="15" fill="#d1e3f2">安全的批准文件交换库</text>
+<text x="1084" y="680" font-size="15" font-weight="700" fill="#a45b1b">批准机关收到材料后最迟 14 天上传</text>
+<rect x="32" y="912" width="1376" height="85" rx="14" fill="white" stroke="#d5e0ed"/>
+<text x="52" y="943" font-size="16" fill="#173e5e">法规要求：有效监测、事件通报、周期统计、软件与批准可追溯；设计整改材料经批准机关进入 DETA。</text>
+<text x="52" y="978" font-size="16" fill="#a45b1b">工程选择：采样率、缓存时长、mTLS、消息队列、云地域与存储。R171 不统一要求全部原始数据实时直传监管云。</text>
+</g></svg>

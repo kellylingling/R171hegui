@@ -1,0 +1,24 @@
+# Existing workspace materials outside the R171 deliverable
+/.doc/*
+!/.doc/R171-VTA车云架构与监管数据方案-2026-10-11.md
+!/.doc/research-r171/
+/.doc/research-r171/*
+!/.doc/research-r171/README.md
+!/.doc/research-r171/sources-manifest.json
+!/.doc/research-r171/render_architecture.py
+
+# Generated browser state and local preview
+**/edge-preview-profile/
+/diagrams/**/preview.html
+
+# Local runtime and editor files
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
+.env
+.env.*
+!.env.example
+Thumbs.db
+Desktop.ini
+.DS_Store
