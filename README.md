@@ -7,6 +7,7 @@ UN R171/DCAS 车辆型式批准、在用监测与车云数据架构参考资料�
 ## 文档与架构
 
 - [完整车云架构与监管数据方案](.doc/R171-VTA车云架构与监管数据方案-2026-10-11.md)
+- [多域汇聚与 Momenta 接口方案评审](docs/R171-多域汇聚与Momenta接口方案评审-2026-10-12.md)
 - [架构图 PNG](diagrams/2026-10-11T145500/diagram.png)
 - [架构图 SVG](diagrams/2026-10-11T145500/diagram.svg)
 - [Mermaid 架构源文件](diagrams/2026-10-11T145500/diagram.mmd)
